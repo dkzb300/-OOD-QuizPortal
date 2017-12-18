@@ -1,0 +1,35 @@
+	//char input[20];
+	//int member = -1;
+
+	/*
+	fin.open("C:\\Users\\Administrator\\Desktop\\QuizPortal_part1\\QuizPortal_part1\\user_database.txt");
+	while (!fin.eof()) {
+		fin >> input;
+		fin >> input;
+		fin >> input;
+		fin >> input;
+		fin >> input;
+		member++;
+	}
+	fin.close();
+	*/
+
+	/*
+	fout.open("C:\\Users\\Administrator\\Desktop\\QuizPortal_part1\\QuizPortal_part1\\user_database.txt", ios::app);
+	my_account->Set_accountID(new_accountID);
+	fout << new_accountID << endl;
+	my_account->Set_accountPW(new_accountPW);
+	fout << new_accountPW << endl;
+
+	inputInt = (inputInt * 1000) + (rand() % 1000);
+	my_account->Set_uniqueKey(inputInt);
+	fout << my_account->Get_uniqueKey() << endl;
+	my_account->Set_point(0);
+	fout << my_account->Get_point() << endl;
+	my_account->Set_rank(INT_MAX);
+	fout << my_account->Get_rank() << endl;
+	fout << endl;
+	fout.close();
+	
+	my_accountList.add(my_account);
+	*/
